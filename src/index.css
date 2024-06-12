@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: gilroy;
+    src: url(../img/Gilroy-Regular.ttf);
+}
+
+body{
+    background-color: #042f2e;
+    font-family: gilroy;
+}
